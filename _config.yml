@@ -1,3 +1,5 @@
+# Jekyll Configuration File
+
 # SEO
 name: CS Pound Discord Bot
 description: The missing link between Discord and Chicken Smoothie.
@@ -5,6 +7,9 @@ company: Blustar
 twitter:
   username: TailstarTheDog
   card: summary
+
+# Set this to your UA-# value, or '' to disable the block completely
+gaaccount: 'UA-58627240-3'
 
 # Setup
 tagline:      A responsive theme for your project on GitHub Pages
