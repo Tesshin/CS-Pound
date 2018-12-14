@@ -23,4 +23,4 @@ sass:
 markdown: kramdown
 plugins: ['jekyll-paginate', 'jekyll-seo-tag', 'jekyll-sitemap']
 
-exclude: ['Gemfile', 'jekyll-architect-theme.gemspec']
+exclude: ['Gemfile', 'jekyll-architect-theme.gemspec', 'tag_generator.py']
