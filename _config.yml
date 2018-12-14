@@ -18,8 +18,7 @@ gaaccount: 'UA-58627240-3'
 sass:
   style: compressed
 
-# Plugins
-plugins: ['jekyll-paginate', 'jekyll-seo-tag']
-
-#Others
 markdown: kramdown
+plugins: ['jekyll-paginate', 'jekyll-seo-tag', 'jekyll-sitemap']
+
+exclude: ['Gemfile', 'jekyll-architect-theme.gemspec']
