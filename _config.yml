@@ -17,6 +17,8 @@ gaaccount: 'UA-58627240-3'
 
 # Setup
 tagline:      A responsive theme for your project on GitHub Pages
+sass:
+  style: compressed
 
 # Plugins
 plugins: ['jekyll-paginate', 'jekyll-seo-tag']
