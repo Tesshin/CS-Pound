@@ -8,12 +8,15 @@ twitter:
   username: TailstarTheDog
   card: summary
 
+# baseurl will often be '', but for a project page on gh-pages, it needs to
+# be the project name.
+baseurl: /CS-Pound
+
 # Set this to your UA-# value, or '' to disable the block completely
 gaaccount: 'UA-58627240-3'
 
 # Setup
 tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      ""
 
 # Plugins
 plugins: ['jekyll-paginate', 'jekyll-seo-tag']
