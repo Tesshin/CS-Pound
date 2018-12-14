@@ -1,12 +1,18 @@
+# SEO
+name: CS Pound Discord Bot
+description: The missing link between Discord and Chicken Smoothie.
+company: Blustar
+twitter:
+  username: TailstarTheDog
+  card: summary
+
 # Setup
-name:         Project or Site name (Architect Theme)
 tagline:      A responsive theme for your project on GitHub Pages
 baseurl:      ""
 locale:       "en"
 
-# Gems
-plugins:
-  - jekyll-paginate
+# Plugins
+plugins: ['jekyll-paginate', 'jekyll-seo-tag']
 
 #Others
 markdown: kramdown
