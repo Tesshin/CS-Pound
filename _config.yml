@@ -15,8 +15,6 @@ baseurl: /CS-Pound
 # Set this to your UA-# value, or '' to disable the block completely
 gaaccount: 'UA-58627240-3'
 
-# Setup
-tagline:      A responsive theme for your project on GitHub Pages
 sass:
   style: compressed
 
