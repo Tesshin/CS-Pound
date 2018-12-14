@@ -9,7 +9,6 @@ Not sure if you have noticed this, but I usually test new features and fix bugs 
 
 Some other noticable changes include **,stats** is now an alias to **,statistics**, and **,remindme** can now be called with just **,rm**.
 
-
 Changelog:
 * Renamed **,stats** command to **,statistics**
 * Changed 'CS Pound Memory Usage' to display in MB instead of a percentage
