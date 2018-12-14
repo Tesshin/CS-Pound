@@ -5,7 +5,7 @@ baseurl:      ""
 locale:       "en"
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
 
 #Others
