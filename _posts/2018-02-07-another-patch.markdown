@@ -1,5 +1,5 @@
 ---
-title: Another patch!
+title: Another Patch!
 layout: post
 tags: Pet Remind-Me Time Update
 ---

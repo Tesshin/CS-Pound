@@ -1,5 +1,5 @@
 ---
-title: New beta pet command!
+title: New Beta Pet Command!
 layout: post
 tags: Pet2 Update
 ---

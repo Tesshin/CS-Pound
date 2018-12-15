@@ -1,5 +1,5 @@
 ---
-title: Remind Me bug fixes
+title: Remind Me Bug Fixes
 layout: post
 tags: Remind-Me Update
 ---

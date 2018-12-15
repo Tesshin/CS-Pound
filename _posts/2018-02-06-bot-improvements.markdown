@@ -1,5 +1,5 @@
 ---
-title: Bot improvements
+title: Bot Improvements
 layout: post
 tags: Pet Time Update
 ---

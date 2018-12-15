@@ -1,5 +1,5 @@
 ---
-title: Development begins!
+title: Development Begins!
 layout: post
 tags: Help Time Update
 ---

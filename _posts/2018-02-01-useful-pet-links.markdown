@@ -1,5 +1,5 @@
 ---
-title: Useful pet links!
+title: Useful Pet Links!
 layout: post
 tags: Help Pet Update
 ---
