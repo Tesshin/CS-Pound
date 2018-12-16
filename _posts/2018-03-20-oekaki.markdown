@@ -1,0 +1,24 @@
+---
+title: Oekaki!
+layout: post
+tags: Help Oekaki Statistics Update
+---
+Ver. ***2018.0320.0***
+
+Another new command to add to the list! This time it's the **,oekaki** command! Sometimes when users showcase their oekaki drawings, they usually either upload the drawing itself or send a link. The **,oekaki** command not only shows the drawing, but also the name and link to the artist!
+
+Other changes in this update include an error message if a PM cannot be sent. Recently I have received a few messages from users saying that calling **,help** didn't send a PM. It turns out the cause was due to users having 'Allow direct mesages from server members' option turned off. I have also fixed a typo with the **,help** embed title being 'Support' instead of 'Help'.
+
+The **,statistics** command also received a small update, with updates to formatting of the bot and system uptime text.
+
+Changelog:
+* Added **,oekaki** command
+* Added error message when bot is unable to send user a PM
+* Improved bot and system uptime format in **,statistics**
+* Fixed embed title on **,help** command showing 'Support' instead of 'Help'
+
+## Command Usage
+```
+,oekaki <Oekaki URL>
+,help oekaki
+```
