@@ -3,7 +3,7 @@ title: Oekaki!
 layout: post
 tags: Help Oekaki Statistics Update
 ---
-Ver. ***2018.0320.0***
+Ver. ***1.6***
 
 Another new command to add to the list! This time it's the **,oekaki** command! Sometimes when users showcase their oekaki drawings, they usually either upload the drawing itself or send a link. The **,oekaki** command not only shows the drawing, but also the name and link to the artist!
 
